@@ -13,7 +13,8 @@ Basic steps for running the BBE (Bristol Betting Exchange):
 
    This will be the agnet that system use when running the simulation. 
 
-2. In systems_constant.py defines parameters/settings of the simulations. Example of parameters  systems_constant.py: 
+2. In systems_constant.py defines parameters/settings of the simulations. Example of parameters  systems_constant.py:
+
    -> General
   #NUM_OF_SIMS = 1
   NUM_OF_SIMS = 1
@@ -28,7 +29,6 @@ Basic steps for running the BBE (Bristol Betting Exchange):
   MAX_ODDS = 20.00
 
   -> Event Attributes
-  -> average horse races are between 5 and 12 (1005 - 2414) furlongs or could go min - max (400 - 4000)
   RACE_LENGTH = 500
   MIN_RACE_LENGTH = 400
   MAX_RACE_LENGTH = 4000
