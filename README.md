@@ -36,7 +36,7 @@ Basic steps for running the BBE (Bristol Betting Exchange):
 
 3. "RUN" the session -> run TBBE.py file. 
 
-4. After the session finished, results will be available in data folder. Many result files will be generated. Please look at session_stats.py file for the generated of each files. 
+4. After the session finished, results will be available in data folder. Many result files will be generated. Please look at session_stats.py file for how each file is generated. 
 
 
 
