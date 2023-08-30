@@ -42,8 +42,7 @@ Basic steps for running the BBE (Bristol Betting Exchange):
 
 
 
-
-
+### This github doens't contain data files due to a large files size. The training data can be collect from running sessions in https://github.com/ChawinT/XGBoost_TBBE using the setup in the dissertation. 
 
   
 
